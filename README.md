@@ -3,7 +3,9 @@
 # tweethook
 For TinkerHub Build From Home Contest- Python Script that uses the Twitter API to save and display a tweet thread.
 
-Write a personal script that uses the Twitter API to save the tweet thread in a suitable form for later consumption (maybe PDF or text file or a table view). User should be able to log in to a dashboard and access saved threads. 
+Write a personal script that uses the Twitter API to save the tweet thread in a suitable form for later consumption.
+
+Check Out the bot: https://twitter.com/hook_tweet
 ## Team members
 1. Manu Jasan [https://github.com/mikelord007]
 2. Allen George Ajith [https://github.com/allen-del]
